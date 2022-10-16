@@ -23,7 +23,7 @@ example of a query url: getblogs?page=0&limit=2
 - Returns the HTTP status 200 if any documents are found.
 
 ### PUT/getblogs/:POSTID
-- Updates a body olny the words which starts from "a" || "A" one's find the word which starts
+- Updates a body tag only the words which starts from "a" || "A" one's find the word which starts
 from "a"||A",then  it will replace  the last three words to "*" 
 - After successful updating it will return updated body tag in response.
 
